@@ -8,9 +8,9 @@ Check out some cool images down bellow.
 
 Thx!
 
-![home page](https://user-images.githubusercontent.com/7691308/89341261-6c05e780-d677-11ea-880e-9651e3297575.png)
-![add expense](https://user-images.githubusercontent.com/7691308/89341318-7de78a80-d677-11ea-8bac-891f879ba596.png)
-![show expenses](https://user-images.githubusercontent.com/7691308/89341521-d1f26f00-d677-11ea-8a08-14880416ede0.png)
+<img src="https://user-images.githubusercontent.com/7691308/89341261-6c05e780-d677-11ea-880e-9651e3297575.png" alt="home page" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/7691308/89341318-7de78a80-d677-11ea-8bac-891f879ba596.png" alt="add expense" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/7691308/89341521-d1f26f00-d677-11ea-8a08-14880416ede0.png" alt="show expenses" width="200" height="200">
 
 ## Getting Started
 
